@@ -1,2 +1,2 @@
 # firstgithub
-project
+first repository on git
